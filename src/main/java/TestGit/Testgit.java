@@ -7,5 +7,6 @@ public class Testgit {
         System.out.println("你好，沈轶智！");
         System.out.println("你好，苗宇梅！");
         System.out.println("你好，周彤彤！");
+        System.out.println("今天的天气真的挺好的呀！");
     }
 }
